@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate frontend web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=networkzz&label=Profile%20views&color=0e75b6&style=flat" alt="networkzz" /> </p>
-
 - 🔭 I’m currently working on **Ecommerce with ts and react**
 
 - 🌱 I’m currently learning **React,TS,Web3**
