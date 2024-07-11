@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
 <h3 align="center">A passionate frontend web developer</h3>
 
-- 🔭 I’m currently working on **Ecommerce with ts and react**
-
-- 🌱 I’m currently learning **React,TS,Web3**
+- 🔭 I’m currently working on **Adidas**
 
 - 👨‍💻 All of my projects are available at [https://networkz.vercel.app/](https://networkz.vercel.app/)
 
 - 📫 How to reach me <a href="mailto:alex.cinco99@gmail.com">alex.cinco99@gmail.com</a>
-
-- 📄 Know about my experiences [https://www.docdroid.net/wobYzyv/cv-20-pdf](https://www.docdroid.net/wobYzyv/cv-20-pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
