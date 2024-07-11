@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A passionate frontend web developer</h3>
+<h3 align="center">A passionate sofware engineer with strong profiency on product management</h3>
 
 - 🔭 I’m currently working on **Adidas**
 
